@@ -3,25 +3,11 @@
 # Steps done to create Spring Cashier:
 
 Dependencies needed:
-1) Spring Security
-2) Spring Web
-3) Spring Boot DevTools
-4) Lombok
-5) Validation
-6) Spring Data JPA
-7) MySQL Driver
-8) Thymeleaf
-9) Test Containers
-10) Spring Data Reactive Redis
-11) Spring Data Redis
+ Spring Security, Spring Web, Spring Boot DevTools, Lombok, Validation, Spring Data JPA, MySQL Driver, Thymeleaf, Test Containers, Spring Data Reactive Redis,and Spring Data Redis
 
 
 Paths Configuration Required:
-1) Group: com.example
-2) Artifact: spring-cashier
-3) Name: spring-cashier
-4) Package Name: come.example.spring-cashier
-5) Packaging: Jar
+Group: com.example, Artifact: spring-cashier, Name: spring-cashier, Package Name: come.example.spring-cashier, and Packaging: Jar
 
 # Changes made to complete Spring Cashier:
 
